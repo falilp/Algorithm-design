@@ -20,8 +20,10 @@ minerales sea destruido por los ucos.
 Las batallas contra los ucos se desarrollan en terrenos de juego cuadrados de dimensiones n × n. Dentro del
 campo de batalla podemos encontrar tres tipos de entidades u objetos: obstáculos, defensas y unidades de UCOs.
 Cada uno de estos tipos de entidades tiene sus propias características, si bien comparten algunas de ellas.
--Todos los objetos desplegados en el campo de batalla tienen asociado un código único.
--Todos los objetos tienen asociados un valor que indica el espacio ocupado por dicho objeto. Por simplicidad,
+
+-- Todos los objetos desplegados en el campo de batalla tienen asociado un código único.
+
+-- Todos los objetos tienen asociados un valor que indica el espacio ocupado por dicho objeto. Por simplicidad,
 supondremos una forma más o menos cilíndrica de los objetos y bastará, por tanto, con indicar el valor de su
 radio. En general y salvo que se indique lo contrario, ninguno de estos objetos podrá solaparse en el campo
 de batalla con ningún otro objeto.
